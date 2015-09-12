@@ -1,0 +1,67 @@
+
+
+1) Jobs with word Java are,
+	i)  Junior Java Developer(Entry Level): 
+			May require a bachelor's degree in Computer Science or in Information Technology and 0-3 year(s) work experience.
+	
+	ii) Intermediate Java Developer:
+			May require a bachelor's degree in Computer Science or in Information Technology and 3-5 years work experience.
+
+	iii)Senior Java Developer:
+			May require a bachelor's degree in Computer Science or in Information Technology and at least 5 years work experience.
+		
+	
+	iv)Java Developer or Java Programmer:
+			This position includes knowledge of Core Java, J2SE, J2EE,Spring Hibernate.
+
+	v) J2EE Developer:
+                        Must have strong knowledge of and experience of web services(SOAP, REST) and frameworks(Spring, Struts and Hibernate).
+
+
+2) Short defination and URL of technology:
+	
+	i)  ASP - Active Server Pages. (https://en.wikipedia.org/wiki/ASP.NET#History).
+	
+	ii) CSS - Cascading Style Sheet. (http://www.w3schools.com/css/css_intro.asp).
+	
+	iii)PHP- Hypertext Perprocessor. (https://en.wikipedia.org/wiki/PHP).  
+	
+	iv) HTML- HyperText Markup Language. ( https://en.wikipedia.org/wiki/HTML).
+
+	v) J2SE- Java 2.0 Standard Edition. (http://acronyms.thefreedictionary.com/J2SE).
+	
+	vi) COBOL- COmmon Business Oriented Language.(http://fullformdirectory.in/cobol-full-form.html).
+
+	vii) FORTRAN- FORmula TRANslation. (http://fullformdirectory.in/fortran-full-form.html).
+	
+	viii) BIOS - Basic Input Output System. (http://abbreviations.yourdictionary.com/articles/computer-abbreviations.html).
+
+	iX) SQL- Structured Query Language. (http://fullformdirectory.in/sql.html).
+	
+	x) IBM - International Business Machines. (https://en.wikipedia.org/wiki/IBM).
+ 	
+ 	xi) Lenovo - This is a combination of two words "Le" means "Legend" and 'novo' its latin word which means 'new'. Lenovo means "The new Legend".
+		   (https://en.wikipedia.org/wiki/Lenovo). 
+
+	
+3) Potential Salary for Java developer in Toronto, Vancouver, Waterloo:
+
+	i) Junior Java Developer(Entry Level) :  
+			
+			A) For this position in Toronto employee will get annual salary in between C$60,189 to C$62,608 including bonus.
+			B) For this position in Vancouver employee will get annual salary in between C$63,668 to C$66,227 including bonus.
+			C) For this position in Waterloo employee will get annual salary in between C$61,755 to C$64,237 including bonus.
+
+	ii) Intermediate Java Developer:
+                       
+			A) For this position in Toronto employee will get annual salary in between C$71,942 to C$75,727 including bonus.
+			B) For this position in Vancouver employee will get annual salary in between C$76,100 to C$80,105 including bonus.	
+			C) For this position in Waterloo employee will get annual salary in between C$73,813 to C$77,697 including bonus. 
+
+	
+	iii) Senior Java Developer: 
+	
+			A) For this position in Toronto employee will get annual salary in between C$87,596 to C$93,044 including bonus.
+			B) For this position in Vancouver employee will get annual salary in between C$90,660 to C$98,423 including bonus.
+			C) For this position in Waterloo employee will get annual salary in between C$89,875 to C$95,465 including bonus.
+	
